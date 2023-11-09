@@ -31,7 +31,7 @@
                     <ul>
                         <li>
                             <a href="https://webstoryboy.co.kr">
-                                <img src="../assets/img/Mail.png" alt="메일">
+                                <img src="../assets/img/mail.png" alt="메일">
                                 <p>Mail</p>
                             </a>
                         </li>

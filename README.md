@@ -133,3 +133,10 @@ main.js -> App.vue -> HomeView.vue -> components의 뷰파일들
 
     app.mount('#app')
 
+
+
+## 배포
+`npm run build`
+`git add .`
+`git commit -m "두번째 커밋"`
+`git push origin main`
